@@ -1,0 +1,213 @@
+.navbar {
+    width: 1640;
+    margin-left: 6%;
+    margin-right: auto;
+}
+.nav {
+    margin-right: 7%;
+}
+.nav a {
+    font-family: verdana;
+    color: #1D4D6F;
+}
+.nav img {
+    height: 30px;
+}
+.Introduction {
+    width: 1640px;
+    display: grid;
+    margin-left: 6%;
+    margin-right: 7%;
+}
+.Introduction img {
+    width: 100%;
+    height: auto;
+}
+.Introduction h1 {
+    height: 48px;
+    margin-left: 50px;
+    font-family: Georgia;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.Introduction p {
+    margin-left: 50px;
+    width: auto;
+    height: 138px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.process h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0%;
+    font-family: Georgia;
+    font-size: 42pt;  
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    color: #34424f;
+}
+.research {
+    display: grid;
+    width: 1640px;
+    display: grid;
+    vertical-align: top;
+    margin-top: 50px;
+    margin-left: 6%;
+    margin-right: 6%;
+}
+.research script {
+    padding: 0%;
+    display: grid;
+    width: 100%;
+    height: auto;
+}
+.research h1 {
+    margin-top: 150px;
+    height: 48px;
+    font-family: Georgia;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.research p {
+    width: auto;
+    height: 138px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.ideation {
+    display: grid;
+    width: 1640px;
+    display: grid;
+    align-content: center;
+    margin-left: 6%;
+}
+.ideation script {
+    display: grid;
+    width: 100%;
+    height: auto;
+}
+.ideation h1 {
+    margin-top: 250px;
+    height: 48px;
+    font-family: Georgia;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.ideation p {
+    width: auto;
+    height: 138px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.prototyping {
+    display: grid;
+    width: 1640px;
+    display: grid;
+    align-content: center;
+    margin-left: 6%;
+}
+.prototyping script {
+    display: grid;
+    width: 100%;
+    height: auto;
+}
+.prototyping h1 {
+    margin-top: 150px;
+    height: 48px;
+    font-family: Georgia;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.prototyping p {
+    width: auto;
+    height: 138px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.testing {
+    display: grid;
+    width: 1640px;
+    display: grid;
+    align-content: center;
+    margin-left: 6%;
+}
+.testing script {
+    display: grid;
+    width: 100%;
+    height: auto;
+}
+.testing h1 {
+    margin-top: 200px;
+    height: 48px;
+    font-family: Georgia;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.testing p {
+    width: auto;
+    height: 138px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+.future {
+    display: grid;
+    width: 1640px;
+    display: grid;
+    align-content: center;
+    margin-left: 6%;
+}
+.future script {
+    display: grid;
+    width: 100%;
+    height: auto;
+}
+.future h1 {
+    margin-top: 200px;
+    height: 48px;
+    font-family: Georgia;
+    font-size: 42px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.64;
+    letter-spacing: normal;
+    text-align: left;
+    color: #34424f;
+}
+.future p {
+    width: auto;
+    height: 138px;
+    font-family: Verdana;
+    font-size: 20px;
+}
+footer {
+    background-color: #34424f;
+    height: 50px;
+}
